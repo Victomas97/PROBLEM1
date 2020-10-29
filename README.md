@@ -1,9 +1,9 @@
 # Problema 1: Conjetura de Collatz
 * Resultado: 77031
-* Caracteres: 126
+* Caracteres: 100
 
 ![Optional Text](IMG/result.PNG)
-![Optional Text](IMG/caracters.PNG)
+![Optional Text](IMG/regex.PNG)
 
 How to use:
 * Abres una ventana de Chrome.
