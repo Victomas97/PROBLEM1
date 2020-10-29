@@ -1,6 +1,6 @@
 # Problema 1: Conjetura de Collatz
 * Resultado: 77031
-* Caracteres: 100
+* Caracteres: 95
 
 ![Optional Text](IMG/result.PNG)
 ![Optional Text](IMG/regex.PNG)
